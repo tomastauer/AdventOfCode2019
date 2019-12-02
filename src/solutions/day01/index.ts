@@ -16,7 +16,7 @@ export default class Day01 implements Solution {
             }
             result += tmp;
         }
-
+		
        return result;
     }
 }
